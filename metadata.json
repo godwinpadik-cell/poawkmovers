@@ -1,0 +1,6 @@
+{
+  "name": "Poawk Property Movers",
+  "description": "Professional local, inter-region, and international relocation, packing, and corporate moving services based in Accra, Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
